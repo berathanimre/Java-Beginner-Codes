@@ -1,5 +1,5 @@
 
-public class MainHu {
+public class BasicComparing {
 
 	public static void main(String[] args) {
 		String str1="berathan"; //creates a new variable that has the value berathan
